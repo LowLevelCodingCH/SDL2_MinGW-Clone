@@ -1,0 +1,1 @@
+Set-Alias gcc "C:\Program Files (x86)\mingw64\bin\gcc.exe"
