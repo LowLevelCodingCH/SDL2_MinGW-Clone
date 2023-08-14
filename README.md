@@ -1,6 +1,11 @@
 # SDL2_MinGW-Clone
 Clone SDL2 and MinGW easily.
 
+## Download WinRAR (no payment):
+
+<https://www.win-rar.com/download.html?&L=1>
+and click you through the setup
+
 ## MinGW setup:
 
 Copy the "mingw64" folder into "C:\Program Files (x86)", that is all
